@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/Fisrt-Portofolio-with-React-JS/static/css/main.f855e6bc.css",
-    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.c02f9824.js",
+    "main.css": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css",
+    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.f2c4b967.js",
     "static/js/787.04c63d2a.chunk.js": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js",
-    "static/media/logo.svg": "/Fisrt-Portofolio-with-React-JS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/my_work6.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work6.b3d715ad49f5455694b9.png",
+    "static/media/MyFace.jpg": "/Fisrt-Portofolio-with-React-JS/static/media/MyFace.6bf892e963198cf745db.jpg",
+    "static/media/my_work3.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work3.7eefa04e9ca1474314ef.png",
+    "static/media/my_work2.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work2.a8bdb120b0f3c05347a9.png",
+    "static/media/my_work5.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work5.c15431b93045bddf1006.png",
+    "static/media/my_work1.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work1.78205551eed9ce51cffe.png",
+    "static/media/my_work4.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work4.f2a48febe2f59a266d0c.png",
+    "static/media/avatar-3.svg": "/Fisrt-Portofolio-with-React-JS/static/media/avatar-3.605f4f9b2d464df4897817a6278e52d7.svg",
+    "static/media/service-1.svg": "/Fisrt-Portofolio-with-React-JS/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/avatar-2.svg": "/Fisrt-Portofolio-with-React-JS/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/Fisrt-Portofolio-with-React-JS/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/service-3.svg": "/Fisrt-Portofolio-with-React-JS/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/Fisrt-Portofolio-with-React-JS/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/dots-bg.svg": "/Fisrt-Portofolio-with-React-JS/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/Fisrt-Portofolio-with-React-JS/index.html",
-    "main.f855e6bc.css.map": "/Fisrt-Portofolio-with-React-JS/static/css/main.f855e6bc.css.map",
-    "main.c02f9824.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.c02f9824.js.map",
+    "main.e98e837b.css.map": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css.map",
+    "main.f2c4b967.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.f2c4b967.js.map",
     "787.04c63d2a.chunk.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c02f9824.js"
+    "static/css/main.e98e837b.css",
+    "static/js/main.f2c4b967.js"
   ]
 }
