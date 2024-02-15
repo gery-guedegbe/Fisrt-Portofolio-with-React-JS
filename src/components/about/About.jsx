@@ -2,6 +2,7 @@ import React from "react";
 import "./about.css";
 import about from "../../assets/avatar-2.svg";
 import AboutBox from "./AboutBox";
+import cvUrl from "../../assets/CV_2024_Géry_Guedegbe.pdf";
 
 const About = () => {
   return (
@@ -22,7 +23,7 @@ const About = () => {
               expectations while staying attuned to the latest trends and web
               development technologies.
             </p>
-            <a href="" className="btn">
+            <a href={cvUrl} className="btn" download>
               Download CV
             </a>
           </div>
