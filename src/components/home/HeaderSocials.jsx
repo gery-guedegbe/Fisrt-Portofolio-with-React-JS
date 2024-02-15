@@ -32,7 +32,7 @@ const HeaderSocials = () => {
 
       <a
         href="https://web.facebook.com/geryfabien.guedegbe.1"
-        className="home__social-links"
+        className="home__social-links" 
         target="_blank"
         rel="noreferrer"
       >
