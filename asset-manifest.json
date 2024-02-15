@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css",
-    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.0bb09d5d.js",
+    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.cfdbc1f3.js",
     "static/js/787.04c63d2a.chunk.js": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js",
     "static/media/my_work9.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work9.2371cb91b164e7c20c36.png",
     "static/media/CV_2024_Géry_Guedegbe.pdf": "/Fisrt-Portofolio-with-React-JS/static/media/CV_2024_Géry_Guedegbe.395cfd0a9ccea85b2373.pdf",
@@ -23,11 +23,11 @@
     "static/media/dots-bg.svg": "/Fisrt-Portofolio-with-React-JS/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/Fisrt-Portofolio-with-React-JS/index.html",
     "main.e98e837b.css.map": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css.map",
-    "main.0bb09d5d.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.0bb09d5d.js.map",
+    "main.cfdbc1f3.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.cfdbc1f3.js.map",
     "787.04c63d2a.chunk.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e98e837b.css",
-    "static/js/main.0bb09d5d.js"
+    "static/js/main.cfdbc1f3.js"
   ]
 }
