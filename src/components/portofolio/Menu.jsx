@@ -56,14 +56,14 @@ const Menu = [
     image: my_work7,
     title: "CV maker develop with React js",
     link: "https://gery-guedegbe.github.io/CV-Builder-using-React-JS/",
-    category: "Web development",
+    category: "Creative",
   },
   {
     id: 8,
     image: my_work8,
     title: "Personalized Valentine's Day card generator",
     link: "https://sweetsentiments.netlify.app",
-    category: "Web development",
+    category: "Creative",
   },
   {
     id: 9,
