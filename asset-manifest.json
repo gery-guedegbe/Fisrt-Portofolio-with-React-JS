@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css",
-    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.f2c4b967.js",
+    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.bb9aa952.js",
     "static/js/787.04c63d2a.chunk.js": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js",
+    "static/media/my_work9.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work9.2371cb91b164e7c20c36.png",
     "static/media/my_work6.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work6.b3d715ad49f5455694b9.png",
     "static/media/MyFace.jpg": "/Fisrt-Portofolio-with-React-JS/static/media/MyFace.6bf892e963198cf745db.jpg",
     "static/media/my_work3.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work3.7eefa04e9ca1474314ef.png",
     "static/media/my_work2.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work2.a8bdb120b0f3c05347a9.png",
+    "static/media/my_work8.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work8.141b73c6c42d483f3d5f.png",
     "static/media/my_work5.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work5.c15431b93045bddf1006.png",
     "static/media/my_work1.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work1.78205551eed9ce51cffe.png",
+    "static/media/my_work7.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work7.c938bd6149abed741a11.png",
     "static/media/my_work4.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work4.f2a48febe2f59a266d0c.png",
     "static/media/avatar-3.svg": "/Fisrt-Portofolio-with-React-JS/static/media/avatar-3.605f4f9b2d464df4897817a6278e52d7.svg",
     "static/media/service-1.svg": "/Fisrt-Portofolio-with-React-JS/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
@@ -19,11 +22,11 @@
     "static/media/dots-bg.svg": "/Fisrt-Portofolio-with-React-JS/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/Fisrt-Portofolio-with-React-JS/index.html",
     "main.e98e837b.css.map": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css.map",
-    "main.f2c4b967.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.f2c4b967.js.map",
+    "main.bb9aa952.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.bb9aa952.js.map",
     "787.04c63d2a.chunk.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e98e837b.css",
-    "static/js/main.f2c4b967.js"
+    "static/js/main.bb9aa952.js"
   ]
 }
