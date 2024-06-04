@@ -7,6 +7,7 @@ import my_work6 from "../../assets/my_work6.png";
 import my_work7 from "../../assets/my_work7.png";
 import my_work8 from "../../assets/my_work8.png";
 import my_work9 from "../../assets/my_work9.png";
+import my_work10 from "../../assets/my_work10.png";
 
 const Menu = [
   {
@@ -70,6 +71,14 @@ const Menu = [
     image: my_work9,
     title: "Ecommerce product page develped with React JS",
     link: "https://gery-guedegbe.github.io/Frontent-Mentor-E-commerce-product-page/",
+    category: "Web development",
+  },
+  {
+    id: 10,
+    image: my_work10,
+    title:
+      "Personality test based on the Myers Briggs Type Indicator (MBTI) model",
+    link: "https://github.com/gery-guedegbe/my-personnality.git",
     category: "Web development",
   },
 ];
