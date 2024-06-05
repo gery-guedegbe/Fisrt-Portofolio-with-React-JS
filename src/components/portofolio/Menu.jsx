@@ -7,7 +7,7 @@ import my_work6 from "../../assets/my_work6.png";
 import my_work7 from "../../assets/my_work7.png";
 import my_work8 from "../../assets/my_work8.png";
 import my_work9 from "../../assets/my_work9.png";
-import my_work10 from "../../assets/my_work10.png";
+import my_work10 from "../../assets/my_work10.jpg";
 
 const Menu = [
   {
