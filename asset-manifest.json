@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css",
-    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.c2e85714.js",
+    "main.js": "/Fisrt-Portofolio-with-React-JS/static/js/main.91ea87df.js",
     "static/js/787.04c63d2a.chunk.js": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js",
     "static/media/my_work9.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work9.2371cb91b164e7c20c36.png",
     "static/media/CV_2024_Géry_Guedegbe.pdf": "/Fisrt-Portofolio-with-React-JS/static/media/CV_2024_Géry_Guedegbe.395cfd0a9ccea85b2373.pdf",
@@ -9,6 +9,7 @@
     "static/media/MyFace.jpg": "/Fisrt-Portofolio-with-React-JS/static/media/MyFace.6bf892e963198cf745db.jpg",
     "static/media/my_work3.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work3.7eefa04e9ca1474314ef.png",
     "static/media/my_work2.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work2.a8bdb120b0f3c05347a9.png",
+    "static/media/my_work10.jpg": "/Fisrt-Portofolio-with-React-JS/static/media/my_work10.1263020538552f88b6e8.jpg",
     "static/media/my_work7.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work7.141b73c6c42d483f3d5f.png",
     "static/media/my_work5.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work5.c15431b93045bddf1006.png",
     "static/media/my_work1.png": "/Fisrt-Portofolio-with-React-JS/static/media/my_work1.78205551eed9ce51cffe.png",
@@ -23,11 +24,11 @@
     "static/media/dots-bg.svg": "/Fisrt-Portofolio-with-React-JS/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/Fisrt-Portofolio-with-React-JS/index.html",
     "main.e98e837b.css.map": "/Fisrt-Portofolio-with-React-JS/static/css/main.e98e837b.css.map",
-    "main.c2e85714.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.c2e85714.js.map",
+    "main.91ea87df.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/main.91ea87df.js.map",
     "787.04c63d2a.chunk.js.map": "/Fisrt-Portofolio-with-React-JS/static/js/787.04c63d2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e98e837b.css",
-    "static/js/main.c2e85714.js"
+    "static/js/main.91ea87df.js"
   ]
 }
