@@ -8,6 +8,8 @@ import my_work7 from "../../assets/my_work7.png";
 import my_work8 from "../../assets/my_work8.png";
 import my_work9 from "../../assets/my_work9.png";
 import my_work10 from "../../assets/my_work10.jpg";
+import my_work11 from "../../assets/my_work11.jpg";
+import my_work12 from "../../assets/my_work12.jpg";
 
 const Menu = [
   {
@@ -80,6 +82,20 @@ const Menu = [
       "Personality test based on the Myers Briggs Type Indicator (MBTI) model",
     link: "https://github.com/gery-guedegbe/my-personnality.git",
     category: "Web development",
+  },
+  {
+    id: 11,
+    image: my_work11,
+    title: "Application de Bloc-Notes en Flutter avec Firebase",
+    link: "https://github.com/gery-guedegbe/Flutter-Note-App",
+    category: "Mobile development",
+  },
+  {
+    id: 12,
+    image: my_work12,
+    title: "Application de Capture d'Images en Flutter",
+    link: "https://github.com/gery-guedegbe/Flutter-Camera-App",
+    category: "Mobile development",
   },
 ];
 

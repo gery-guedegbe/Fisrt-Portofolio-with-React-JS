@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 import about from "../../assets/avatar-2.svg";
 import AboutBox from "./AboutBox";
-import cvUrl from "../../assets/CV_2024_Géry_Guedegbe.pdf";
+import cvUrl from "../../assets/CV_Géry_Guedegbe.pdf";
 
 const About = () => {
   return (
@@ -15,13 +15,14 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I am Géry GUEDEGBE, a technology enthusiast based in Cotonou,
-              Benin. As a frontend developer, I specialize in creating engaging
-              and intuitive web experiences. My commitment to innovation and
-              user-centered design is reflected in every line of code I write.
-              My goal is to craft exceptional user interfaces that exceed
-              expectations while staying attuned to the latest trends and web
-              development technologies.
+              Bienvenue sur mon Portfolio, je m'appelle Géry GUEDEGBE , et je
+              suis un développeur web junior passionné par le développement
+              front-end et back-end. Je suis constamment à la recherche de
+              nouvelles opportunités pour mettre mes compétences en pratique et
+              apprendre de nouvelles technologies. Mon parcours est marqué par
+              plusieurs projets significatifs qui démontrent ma capacité à
+              concevoir et développer des solutions innovantes et
+              fonctionnelles.
             </p>
             <a href={cvUrl} className="btn" download>
               Download CV
@@ -41,7 +42,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">HTML</h3>
+                <h3 className="skills__name">HTML, CSS, JavaScript</h3>
                 <span className="skills__numbers">90%</span>
               </div>
 
@@ -52,8 +53,10 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">CSS</h3>
-                <span className="skills__numbers">70%</span>
+                <h3 translate="no" className="skills__name">
+                  Tailwinds CS
+                </h3>
+                <span className="skills__numbers ">80%</span>
               </div>
 
               <div className="skills__bar">
@@ -63,19 +66,8 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">JavaScript</h3>
-                <span className="skills__numbers">60%</span>
-              </div>
-
-              <div className="skills__bar">
-                <span className="skills__percentage javascript"></span>
-              </div>
-            </div>
-
-            <div className="skills__data">
-              <div className="skills__titles">
-                <h3 className="skills__name">React JS</h3>
-                <span className="skills__numbers">40%</span>
+                <h3 className="skills__name">React JS, Astro JS</h3>
+                <span className="skills__numbers">80%</span>
               </div>
 
               <div className="skills__bar">
@@ -85,12 +77,23 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name"> Chart JS</h3>
+                <h3 className="skills__name">Node JS, Express JS</h3>
                 <span className="skills__numbers">60%</span>
               </div>
 
               <div className="skills__bar">
-                <span className="skills__percentage chart__js"></span>
+                <span className="skills__percentage node-js"></span>
+              </div>
+            </div>
+
+            <div className="skills__data">
+              <div className="skills__titles">
+                <h3 className="skills__name">Flutter, Firebase</h3>
+                <span className="skills__numbers">40%</span>
+              </div>
+
+              <div className="skills__bar">
+                <span className="skills__percentage firebase"></span>
               </div>
             </div>
           </div>

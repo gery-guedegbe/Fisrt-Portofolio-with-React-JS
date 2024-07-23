@@ -28,6 +28,12 @@ const Portofolio = () => {
         <span className="work__item" onClick={() => filterItem("Creative")}>
           Creative
         </span>
+        <span
+          className="work__item"
+          onClick={() => filterItem("Mobile development")}
+        >
+          Mobile development
+        </span>
       </div>
 
       <div className="work__container grid">
